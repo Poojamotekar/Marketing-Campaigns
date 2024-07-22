@@ -1,4 +1,6 @@
 # Marketing-Campaigns
+![Property-Marketing-course-picture-scaled-480x298](https://github.com/user-attachments/assets/f216994b-c0d1-4535-9b5e-68c3aa9b1169)
+
 DESCRIPTION
 
 Problem Scenario: ‘Marketing mix’ is a popular concept used in implementing marketing strategies. A marketing mix includes multiple areas of focus as part of a comprehensive marketing plan. This all revolves around the four Ps of marketing - product, price, place, and promotion. 
